@@ -13,9 +13,8 @@ PS: i do not know how to do changelogs lol.
 
 
 # Changelog (v0.3)
-- Impact Stream Is Down Right Now, its a 403 and i don't know if its ever coming back up again.
-- In The Meantime, I replaced it with Stadium So i can still have a sports channel on the list.
-- Update: Impact stream is back up i will put it back up on tommorow.
+- impact stream was down for a little bit and i replaced it with Stadium,
+- then impact link came back up and i put impact back on the list. :)
 
 # Changelog (v0.2)
 - Added Game Show Central! The link came from xumo.
