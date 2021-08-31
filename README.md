@@ -11,7 +11,12 @@ i dont know how to make it those fancy url lines just right click on the url and
 copy link address and it will be on your clipboard!
 PS: i do not know how to do changelogs lol.
 
+
+# Update-(v0.3)
+- Impact Stream Is Down Right Now, its a 403 and i don't know if its ever coming back up again.
+- In The Meantime, I replaced it with Stadium So i can still have a sports channel on the list.
+
 # Update-(v0.2)
-Added Game Show Central! The link came from xumo.
+- Added Game Show Central! The link came from xumo.
 
 
