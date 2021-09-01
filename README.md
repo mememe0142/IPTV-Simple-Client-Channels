@@ -6,11 +6,8 @@ IPTV also known as Internet Protocol Television. IPTV sends shows and movies thr
 
 # Using-The-IPTV-Playlist
 To watch the channels on this IPTV Playlist, you will need a media player that suppports m3u files or links like Kodi Or VLC.
-The link to use the playlist will be over here https://bit.ly/3Bj5L1S
-i dont know how to make it those fancy url lines just right click on the url and
-copy link address and it will be on your clipboard!
-PS: i do not know how to do changelogs lol.
-
+The link to use the playlist will be over here `https://bit.ly/3Bj5L1S`
+copy and paste the link and it will be on your clipboard!
 
 # Changelog (v0.3)
 - impact stream was down for a little bit and i replaced it with Stadium,
