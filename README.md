@@ -9,11 +9,10 @@ To watch the channels on this IPTV Playlist, you will need a media player that s
 The link to use the playlist will be over here `https://bit.ly/3Bj5L1S`
 copy and paste the link and it will be on your clipboard!
 
-# Changelog (v0.3)
-- impact stream was down for a little bit and i replaced it with Stadium,
-- then impact link came back up and i put impact back on the list. :)
+
 
 # Changelog (v0.2)
 - Added Game Show Central! The link came from xumo.
+- And Also Added Stadium
 
 
