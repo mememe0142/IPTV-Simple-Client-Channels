@@ -9,6 +9,8 @@ To watch the channels on this IPTV Playlist, you will need a media player that s
 The link to use the playlist will be over here `https://bit.ly/3Bj5L1S`
 copy and paste the link and it will be on your clipboard!
 
+# Changelog (v0.3)
+- Added HSN And The Pet Collective Stream on the live list!
 
 
 # Changelog (v0.2)
