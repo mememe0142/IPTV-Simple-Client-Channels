@@ -9,6 +9,10 @@ To watch the channels on this IPTV Playlist, you will need a media player that s
 The link to use the playlist will be over here `https://bit.ly/3Bj5L1S`
 copy and paste the link and it will be on your clipboard!
 
+# Changelog (v0.4)
+- Removed NBC Local 4 WDIV And Impact The Stream links were kept crashing.
+- Added A Collection Of New Channels! I Also added PBS KCET So Cal And Weather Nation!
+
 # Changelog (v0.3)
 - Added HSN And The Pet Collective Stream on the live list!
 
